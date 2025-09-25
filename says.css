@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background-color: grey;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    margin: 2.5rem;
+    border-radius: 20px;
+    box-shadow: 0.5rem 10px 20px black;
+    cursor: pointer;
+}
+.btn{
+    margin-top: 50px;
+    font-size: 50px;
+    font-family: 'Lucida Handwriting', cursive;
+}
+.btn:hover{
+    box-shadow: 0.5rem 10px 20px grey;
+}
+.red{
+    background-color: #d95980;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.green{
+    background-color: #63aac0;
+}
+.purple{
+    background-color: #819ff9;
+}
+.flash{
+    background-color: white;
+}
+.userFlash{
+    background-color: aqua;
+}
+.btn-red{
+    padding: 20px;
+}
