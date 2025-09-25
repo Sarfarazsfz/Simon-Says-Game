@@ -51,6 +51,6 @@ This project was created to practice **JavaScript fundamentals, DOM manipulation
 This project is licensed under the **MIT License**.
 EOF
 
-![Menu Screen](screenshot-menu.png)
-![Gameplay](screenshot-game.png)
+![Menu Screen](Menu-game.JPG)
+![Gameplay](Game-play.JPG)
 
