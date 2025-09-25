@@ -51,6 +51,6 @@ This project was created to practice **JavaScript fundamentals, DOM manipulation
 This project is licensed under the **MIT License**.
 EOF
 
-![Menu Screen](Menu-game.JPG)
-![Gameplay](Game-play.JPG)
+[<img width="1366" height="711" alt="image" src="https://github.com/user-attachments/assets/70ba8176-eb58-4fc9-9591-23cc77c13f67" />]
+[<img width="1366" height="732" alt="image" src="https://github.com/user-attachments/assets/e0a41915-57b1-4b7a-9cf4-1e550e958531" />]
 
