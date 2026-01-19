@@ -1,4 +1,3 @@
-
 # Simon Says Game
 
 A **memory-based game** built with **HTML, CSS, and JavaScript**, where players repeat an increasingly complex sequence of colors.
@@ -55,4 +54,10 @@ EOF
 
 # Game-Play
 <img width="1366" height="732" alt="image" src="https://github.com/user-attachments/assets/e0a41915-57b1-4b7a-9cf4-1e550e958531" />
+
+# 📞 Contact
+
+Developer: MD SARFARAZ ALAM
+Email: mdsarfarazalam669@gmail.com
+GitHub: https://github.com/Sarfarazsfz
 
